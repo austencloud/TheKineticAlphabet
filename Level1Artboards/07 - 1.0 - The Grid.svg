@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 612 792">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #231f20;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2, .cls-3 {
+        font-size: 17px;
+      }
+
+      .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8, .cls-9, .cls-10 {
+        fill: #231f20;
+      }
+
+      .cls-11 {
+        letter-spacing: -.08em;
+      }
+
+      .cls-3, .cls-12, .cls-13, .cls-7, .cls-14, .cls-15, .cls-16, .cls-17, .cls-10 {
+        font-family: Cambria, Cambria;
+      }
+
+      .cls-18 {
+        fill: #21409a;
+      }
+
+      .cls-19 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-20 {
+        letter-spacing: -.04em;
+      }
+
+      .cls-4, .cls-7 {
+        font-size: 16px;
+      }
+
+      .cls-5 {
+        font-size: 20px;
+      }
+
+      .cls-5, .cls-6, .cls-8 {
+        font-family: MonotypeCorsiva, 'Monotype Corsiva';
+      }
+
+      .cls-21 {
+        letter-spacing: -.03em;
+      }
+
+      .cls-12, .cls-22 {
+        letter-spacing: 0em;
+      }
+
+      .cls-23, .cls-24, .cls-25 {
+        font-family: Cambria-Bold, Cambria;
+        font-weight: 700;
+      }
+
+      .cls-23, .cls-26 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-6 {
+        font-size: 40px;
+      }
+
+      .cls-27 {
+        letter-spacing: -.07em;
+      }
+
+      .cls-13, .cls-28 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-29 {
+        letter-spacing: 0em;
+      }
+
+      .cls-14, .cls-30 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-31 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-8 {
+        font-size: 24px;
+      }
+
+      .cls-15, .cls-32 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-33 {
+        letter-spacing: 0em;
+      }
+
+      .cls-34 {
+        fill: #ed1c24;
+      }
+
+      .cls-35 {
+        letter-spacing: -.1em;
+      }
+
+      .cls-36 {
+        letter-spacing: 0em;
+      }
+
+      .cls-37 {
+        letter-spacing: .01em;
+      }
+
+      .cls-38 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-17 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-39 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-25 {
+        letter-spacing: 0em;
+      }
+
+      .cls-10 {
+        font-size: 13.03px;
+      }
+    </style>
+  </defs>
+  <text class="cls-6" transform="translate(246.6 40.78)"><tspan x="0" y="0">The Grid</tspan></text>
+  <text class="cls-5" transform="translate(112.33 603.66)"><tspan x="0" y="0">Diamond</tspan></text>
+  <text class="cls-5" transform="translate(290.93 603.66)"><tspan x="0" y="0">Box</tspan></text>
+  <text class="cls-5" transform="translate(423.35 603.66)"><tspan x="0" y="0">8-point grid</tspan></text>
+  <text class="cls-4" transform="translate(145.67 84.38)"><tspan class="cls-16"><tspan x="0" y="0">The Kinetic Alphabet is based on a 4-point grid.</tspan></tspan><tspan class="cls-16"><tspan x="-39.15" y="38.4">The</tspan><tspan class="cls-32" x="-13.04" y="38.4">r</tspan><tspan x="-6.65" y="38.4">e a</tspan><tspan class="cls-32" x="12.49" y="38.4">r</tspan><tspan x="18.87" y="38.4">e t</tspan><tspan class="cls-38" x="35.61" y="38.4">w</tspan><tspan x="47.8" y="38.4">o 4-point grids: b</tspan><tspan class="cls-32" x="164.91" y="38.4">o</tspan><tspan x="173.17" y="38.4">x mode and diamond mode. </tspan></tspan><tspan class="cls-24"><tspan x="-79.84" y="57.6">This guide is writ</tspan><tspan class="cls-26" x="47.24" y="57.6">t</tspan><tspan x="52.86" y="57.6">en in diamond, but </tspan><tspan class="cls-19" x="194.07" y="57.6">e</tspan><tspan class="cls-21" x="202.29" y="57.6">v</tspan><tspan x="210.33" y="57.6">erything t</tspan><tspan class="cls-19" x="282.46" y="57.6">r</tspan><tspan x="289.57" y="57.6">ansla</tspan><tspan class="cls-26" x="328.63" y="57.6">t</tspan><tspan x="334.25" y="57.6">es </tspan><tspan class="cls-26" x="353.61" y="57.6">t</tspan><tspan x="359.24" y="57.6">o b</tspan><tspan class="cls-31" x="381.33" y="57.6">o</tspan><tspan x="390.18" y="57.6">x.</tspan></tspan><tspan class="cls-16"><tspan x="13.03" y="96">On this grid, the</tspan><tspan class="cls-32" x="121.72" y="96">r</tspan><tspan x="128.1" y="96">e a</tspan><tspan class="cls-32" x="147.24" y="96">r</tspan><tspan x="153.62" y="96">e th</tspan><tspan class="cls-32" x="179.2" y="96">r</tspan><tspan x="185.58" y="96">ee types of points:</tspan></tspan></text>
+  <text class="cls-3" transform="translate(131.21 555.1)"><tspan class="cls-11" x="0" y="0">T</tspan><tspan x="8.7" y="0">ogethe</tspan><tspan class="cls-35" x="57.84" y="0">r</tspan><tspan x="63.21" y="0">, diamond and b</tspan><tspan class="cls-32" x="178.99" y="0">o</tspan><tspan x="187.76" y="0">x </tspan><tspan class="cls-28" x="199.73" y="0">f</tspan><tspan x="204.66" y="0">orm an 8-point grid: </tspan></text>
+  <text class="cls-7" transform="translate(121.02 772.17)"><tspan class="cls-20" x="0" y="0">F</tspan><tspan x="7.96" y="0">or n</tspan><tspan class="cls-33" x="35.52" y="0">o</tspan><tspan class="cls-27" x="43.94" y="0">w</tspan><tspan x="55.16" y="0">, </tspan><tspan class="cls-38" x="61.96" y="0">w</tspan><tspan x="74.15" y="0">e’ll use diamond mode </tspan><tspan class="cls-22" x="231.02" y="0">t</tspan><tspan x="236.29" y="0">o learn each concep</tspan><tspan class="cls-37" x="370.59" y="0">t</tspan><tspan x="376.24" y="0">. </tspan></text>
+  <g>
+    <path class="cls-9" d="m145.13,674.74c1.93,0,1.93-3,0-3s-1.93,3,0,3h0Z"/>
+    <circle class="cls-9" cx="194.98" cy="673.24" r="4.15"/>
+    <circle class="cls-9" cx="145.13" cy="723.09" r="4.15"/>
+    <circle class="cls-9" cx="95.29" cy="673.24" r="4.15"/>
+    <circle class="cls-9" cx="145.13" cy="623.39" r="4.15"/>
+  </g>
+  <g>
+    <path class="cls-9" d="m305.13,674.74c1.93,0,1.93-3,0-3s-1.93,3,0,3h0Z"/>
+    <path class="cls-9" d="m340.38,635.84c.58,0,1.12.22,1.52.63.84.84.84,2.21,0,3.05-.41.41-.95.63-1.52.63s-1.12-.22-1.52-.63c-.84-.84-.84-2.21,0-3.05.41-.41.95-.63,1.52-.63m0-2c-1.06,0-2.13.41-2.94,1.22-1.62,1.62-1.62,4.25,0,5.87.81.81,1.87,1.22,2.94,1.22s2.13-.41,2.94-1.22c1.62-1.62,1.62-4.25,0-5.87-.81-.81-1.87-1.22-2.94-1.22h0Z"/>
+    <path class="cls-9" d="m340.38,706.33c.58,0,1.12.22,1.52.63.84.84.84,2.21,0,3.05-.41.41-.95.63-1.52.63s-1.12-.22-1.52-.63c-.84-.84-.84-2.21,0-3.05.41-.41.95-.63,1.52-.63m0-2c-1.06,0-2.13.41-2.94,1.22-1.62,1.62-1.62,4.25,0,5.87.81.81,1.87,1.22,2.94,1.22s2.13-.41,2.94-1.22c1.62-1.62,1.62-4.25,0-5.87-.81-.81-1.87-1.22-2.94-1.22h0Z"/>
+    <path class="cls-9" d="m269.89,706.33c.58,0,1.12.22,1.52.63.84.84.84,2.21,0,3.05-.41.41-.95.63-1.52.63s-1.12-.22-1.52-.63c-.84-.84-.84-2.21,0-3.05.41-.41.95-.63,1.52-.63m0-2c-1.06,0-2.13.41-2.94,1.22-1.62,1.62-1.62,4.25,0,5.87.81.81,1.87,1.22,2.94,1.22s2.13-.41,2.94-1.22c1.62-1.62,1.62-4.25,0-5.87-.81-.81-1.87-1.22-2.94-1.22h0Z"/>
+    <path class="cls-9" d="m269.89,635.84c.58,0,1.12.22,1.52.63.84.84.84,2.21,0,3.05-.41.41-.95.63-1.52.63s-1.12-.22-1.52-.63c-.84-.84-.84-2.21,0-3.05.41-.41.95-.63,1.52-.63m0-2c-1.06,0-2.13.41-2.94,1.22-1.62,1.62-1.62,4.25,0,5.87.81.81,1.87,1.22,2.94,1.22s2.13-.41,2.94-1.22c1.62-1.62,1.62-4.25,0-5.87-.81-.81-1.87-1.22-2.94-1.22h0Z"/>
+  </g>
+  <g>
+    <path class="cls-9" d="m465.13,674.74c1.93,0,1.93-3,0-3s-1.93,3,0,3h0Z"/>
+    <path class="cls-9" d="m500.38,635.84c.58,0,1.12.22,1.52.63.84.84.84,2.21,0,3.05-.41.41-.95.63-1.52.63s-1.12-.22-1.52-.63c-.84-.84-.84-2.21,0-3.05.41-.41.95-.63,1.52-.63m0-2c-1.06,0-2.13.41-2.94,1.22-1.62,1.62-1.62,4.25,0,5.87.81.81,1.87,1.22,2.94,1.22s2.13-.41,2.94-1.22c1.62-1.62,1.62-4.25,0-5.87-.81-.81-1.87-1.22-2.94-1.22h0Z"/>
+    <path class="cls-9" d="m500.38,706.33c.58,0,1.12.22,1.52.63.84.84.84,2.21,0,3.05-.41.41-.95.63-1.52.63s-1.12-.22-1.52-.63c-.84-.84-.84-2.21,0-3.05.41-.41.95-.63,1.52-.63m0-2c-1.06,0-2.13.41-2.94,1.22-1.62,1.62-1.62,4.25,0,5.87.81.81,1.87,1.22,2.94,1.22s2.13-.41,2.94-1.22c1.62-1.62,1.62-4.25,0-5.87-.81-.81-1.87-1.22-2.94-1.22h0Z"/>
+    <path class="cls-9" d="m429.89,706.33c.58,0,1.12.22,1.52.63.84.84.84,2.21,0,3.05-.41.41-.95.63-1.52.63s-1.12-.22-1.52-.63c-.84-.84-.84-2.21,0-3.05.41-.41.95-.63,1.52-.63m0-2c-1.06,0-2.13.41-2.94,1.22-1.62,1.62-1.62,4.25,0,5.87.81.81,1.87,1.22,2.94,1.22s2.13-.41,2.94-1.22c1.62-1.62,1.62-4.25,0-5.87-.81-.81-1.87-1.22-2.94-1.22h0Z"/>
+    <path class="cls-9" d="m429.89,635.84c.58,0,1.12.22,1.52.63.84.84.84,2.21,0,3.05-.41.41-.95.63-1.52.63s-1.12-.22-1.52-.63c-.84-.84-.84-2.21,0-3.05.41-.41.95-.63,1.52-.63m0-2c-1.06,0-2.13.41-2.94,1.22-1.62,1.62-1.62,4.25,0,5.87.81.81,1.87,1.22,2.94,1.22s2.13-.41,2.94-1.22c1.62-1.62,1.62-4.25,0-5.87-.81-.81-1.87-1.22-2.94-1.22h0Z"/>
+  </g>
+  <g>
+    <path class="cls-9" d="m465.13,674.74c1.93,0,1.93-3,0-3s-1.93,3,0,3h0Z"/>
+    <circle class="cls-9" cx="514.98" cy="673.24" r="4.15"/>
+    <circle class="cls-9" cx="465.13" cy="723.09" r="4.15"/>
+    <circle class="cls-9" cx="415.29" cy="673.24" r="4.15"/>
+    <circle class="cls-9" cx="465.13" cy="623.39" r="4.15"/>
+  </g>
+  <g>
+    <text class="cls-8" transform="translate(394.88 227.54)"><tspan x="0" y="0">Diamond</tspan></text>
+    <g>
+      <text class="cls-10" transform="translate(420.21 309.37)"><tspan x="0" y="0">hand </tspan><tspan x="-3.51" y="15.64">points</tspan></text>
+      <g>
+        <line class="cls-1" x1="414.81" y1="329.99" x2="388.63" y2="353.19"/>
+        <polygon class="cls-9" points="383.34 357.87 388.09 348.23 389.02 352.84 393.48 354.31 383.34 357.87"/>
+      </g>
+      <g>
+        <line class="cls-1" x1="453.67" y1="329.99" x2="479.85" y2="353.19"/>
+        <polygon class="cls-9" points="485.14 357.87 475 354.32 479.46 352.84 480.39 348.23 485.14 357.87"/>
+      </g>
+      <g>
+        <line class="cls-1" x1="405.4" y1="399.29" x2="426.26" y2="377.43"/>
+        <polygon class="cls-9" points="431.14 372.32 427.21 382.33 425.9 377.81 421.33 376.71 431.14 372.32"/>
+      </g>
+      <g>
+        <line class="cls-1" x1="500.18" y1="471.71" x2="459.87" y2="483.89"/>
+        <polygon class="cls-9" points="453.11 485.93 461.46 479.16 460.38 483.73 463.81 486.94 453.11 485.93"/>
+      </g>
+      <g>
+        <line class="cls-1" x1="537.7" y1="433.57" x2="545.81" y2="392.25"/>
+        <polygon class="cls-9" points="547.16 385.32 549.24 395.87 545.7 392.77 541.26 394.3 547.16 385.32"/>
+      </g>
+      <g>
+        <text class="cls-10" transform="translate(377.95 409.15)"><tspan x="0" y="0">cen</tspan><tspan class="cls-29" x="19.38" y="0">t</tspan><tspan x="23.67" y="0">er </tspan><tspan x="2.97" y="15.64">point</tspan></text>
+        <text class="cls-10" transform="translate(511.42 452.17)"><tspan x="0" y="0">ou</tspan><tspan class="cls-29" x="14.11" y="0">t</tspan><tspan x="18.41" y="0">er </tspan><tspan x="-2.46" y="15.64">points</tspan></text>
+        <g>
+          <g>
+            <path class="cls-9" d="m378.47,369.97c1.63,0,1.63-2.53,0-2.53s-1.63,2.53,0,2.53h0Z"/>
+            <path class="cls-9" d="m490.01,369.97c1.63,0,1.63-2.53,0-2.53s-1.63,2.53,0,2.53h0Z"/>
+            <circle class="cls-9" cx="551.17" cy="368.71" r="9.74"/>
+            <circle class="cls-9" cx="434.24" cy="485.64" r="9.74"/>
+            <circle class="cls-9" cx="317.31" cy="368.71" r="9.74"/>
+            <circle class="cls-9" cx="434.24" cy="251.78" r="9.74"/>
+          </g>
+          <circle class="cls-9" cx="434.24" cy="368.71" r="3.17"/>
+        </g>
+        <path class="cls-34" d="m495.6,367.54h-.72c0-.07,0-.14,0-.2,0-2.24,0-4.48,0-6.71,0-.59-.32-1.05-.84-1.2-.79-.24-1.54.34-1.54,1.2,0,1.93,0,3.85,0,5.78,0,.38,0,.75,0,1.13-.24,0-.46,0-.7,0,0-.06,0-.13,0-.19,0-2.74,0-5.49,0-8.23,0-.71-.51-1.24-1.19-1.24-.68,0-1.18.54-1.18,1.25,0,2.73,0,5.47,0,8.2,0,.07,0,.13,0,.21-.23,0-.46,0-.7,0v-.19c0-2.18,0-4.36,0-6.53,0-.65-.41-1.13-1.05-1.22-.65-.1-1.31.46-1.31,1.12,0,.83,0,1.66,0,2.48,0,2.76,0,5.51,0,8.27,0,.17-.03.32-.2.41-.18.1-.37.03-.48-.17-.45-.78-.91-1.57-1.36-2.36-.35-.61-.94-.81-1.58-.54-.65.27-.88,1.03-.51,1.67.63,1.09,1.26,2.18,1.88,3.27.46.8.91,1.6,1.39,2.39.16.26.38.49.6.71.91.91,1.94,1.64,3.13,2.14,1.06.44,2.17.66,3.32.54,2.09-.2,3.63-1.25,4.61-3.11.45-.85.68-1.76.76-2.71.04-.45.05-.9.05-1.35,0-3.01,0-6.02,0-9.03,0-.71-.54-1.25-1.22-1.24-.64.01-1.15.54-1.15,1.17,0,1.37,0,2.74,0,4.11v.18Z"/>
+        <path class="cls-18" d="m372.88,367.54h.72c0-.07,0-.14,0-.2,0-2.24,0-4.48,0-6.71,0-.59.32-1.05.84-1.2.79-.24,1.54.34,1.54,1.2,0,1.93,0,3.85,0,5.78,0,.38,0,.75,0,1.13.24,0,.46,0,.7,0,0-.06,0-.13,0-.19,0-2.74,0-5.49,0-8.23,0-.71.51-1.24,1.19-1.24.68,0,1.18.54,1.18,1.25,0,2.73,0,5.47,0,8.2,0,.07,0,.13,0,.21h.7v-.19c0-2.18,0-4.36,0-6.53,0-.65.41-1.13,1.05-1.22.65-.1,1.31.46,1.31,1.12,0,.83,0,1.66,0,2.48,0,2.76,0,5.51,0,8.27,0,.17.03.32.2.41.18.1.37.03.48-.17.45-.78.91-1.57,1.36-2.36.35-.61.94-.81,1.58-.54.65.27.88,1.03.51,1.67-.63,1.09-1.26,2.18-1.88,3.27-.46.8-.91,1.6-1.39,2.39-.16.26-.38.49-.6.71-.91.91-1.94,1.64-3.13,2.14-1.06.44-2.17.66-3.32.54-2.09-.2-3.63-1.25-4.61-3.11-.45-.85-.68-1.76-.76-2.71-.04-.45-.05-.9-.05-1.35,0-3.01,0-6.02,0-9.03,0-.71.54-1.25,1.22-1.24.64.01,1.15.54,1.15,1.17,0,1.37,0,2.74,0,4.11v.18Z"/>
+      </g>
+    </g>
+  </g>
+  <line class="cls-1" x1=".97" y1="521.97" x2="612.97" y2="521.97"/>
+  <path class="cls-9" d="m379.76,671.65v-2.8h12.65v2.8h-12.65Zm0,5.98v-2.8h12.65v2.8h-12.65Z"/>
+  <path class="cls-9" d="m226.93,674.62v5.18h-2.87v-5.18h-5.12v-2.75h5.12v-5.19h2.87v5.19h5.12v2.75h-5.12Z"/>
+  <text class="cls-2" transform="translate(31.71 246.32)"><tspan class="cls-16" x="0" y="0">The </tspan><tspan class="cls-25" x="31.49" y="0">c</tspan><tspan class="cls-24" x="39.35" y="0">en</tspan><tspan class="cls-23" x="58.64" y="0">t</tspan><tspan class="cls-24" x="64.61" y="0">er point</tspan><tspan class="cls-16" x="126.87" y="0" xml:space="preserve"> is the hub that </tspan><tspan class="cls-16"><tspan class="cls-36" x="0" y="20.4">e</tspan><tspan class="cls-30" x="8.13" y="20.4">v</tspan><tspan x="16.36" y="20.4">erything </tspan><tspan class="cls-32" x="81.74" y="20.4">r</tspan><tspan class="cls-36" x="88.52" y="20.4">e</tspan><tspan class="cls-30" x="96.65" y="20.4">v</tspan><tspan x="104.88" y="20.4">o</tspan><tspan class="cls-39" x="113.9" y="20.4">l</tspan><tspan class="cls-30" x="118.18" y="20.4">v</tspan><tspan x="126.41" y="20.4">es a</tspan><tspan class="cls-32" x="154.05" y="20.4">r</tspan><tspan x="160.84" y="20.4">ound.</tspan></tspan></text>
+  <text class="cls-2" transform="translate(31.71 338.19)"><tspan class="cls-16" x="0" y="0">The </tspan><tspan class="cls-13" x="31.49" y="0">f</tspan><tspan class="cls-16" x="36.43" y="0">our </tspan><tspan class="cls-24" x="65.62" y="0">hand points</tspan><tspan class="cls-16" x="158.46" y="0" xml:space="preserve"> a</tspan><tspan class="cls-15" x="170.51" y="0">r</tspan><tspan class="cls-16" x="177.29" y="0">e half</tspan><tspan class="cls-17" x="216.77" y="0">w</tspan><tspan class="cls-14" x="229.62" y="0">a</tspan><tspan class="cls-16" x="237.59" y="0">y </tspan><tspan class="cls-16"><tspan x="0" y="20.4">bet</tspan><tspan class="cls-38" x="23.35" y="20.4">w</tspan><tspan x="36.3" y="20.4">een the cen</tspan><tspan class="cls-22" x="118.56" y="20.4">t</tspan><tspan x="124.16" y="20.4">er point and the </tspan></tspan><tspan class="cls-16"><tspan x="0" y="40.8">ou</tspan><tspan class="cls-22" x="18.41" y="40.8">t</tspan><tspan x="24.01" y="40.8">er points.</tspan></tspan></text>
+  <text class="cls-2" transform="translate(31.71 447.91)"><tspan class="cls-16" x="0" y="0">The </tspan><tspan class="cls-24" x="31.49" y="0">ou</tspan><tspan class="cls-23" x="51.32" y="0">t</tspan><tspan class="cls-24" x="57.3" y="0">er points </tspan><tspan class="cls-16" x="131.1" y="0">depict the ou</tspan><tspan class="cls-12" x="225.57" y="0">t</tspan><tspan class="cls-16" x="231.18" y="0">er </tspan><tspan class="cls-16"><tspan x="0" y="20.4">edges of the grid.</tspan></tspan></text>
+</svg>

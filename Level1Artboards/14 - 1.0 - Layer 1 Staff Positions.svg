@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 612 792">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: none;
+        stroke: #231f20;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-3 {
+        font-size: 17px;
+      }
+
+      .cls-3, .cls-4, .cls-5, .cls-6, .cls-7 {
+        fill: #231f20;
+      }
+
+      .cls-3, .cls-5, .cls-8, .cls-9 {
+        font-family: Cambria, Cambria;
+      }
+
+      .cls-10 {
+        letter-spacing: 0em;
+      }
+
+      .cls-11 {
+        fill: #21409a;
+      }
+
+      .cls-12 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-13 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-14 {
+        letter-spacing: -.03em;
+      }
+
+      .cls-4 {
+        font-family: MonotypeCorsiva, 'Monotype Corsiva';
+        font-size: 40px;
+      }
+
+      .cls-15 {
+        font-family: Cambria-Bold, Cambria;
+      }
+
+      .cls-15, .cls-16, .cls-17 {
+        font-weight: 700;
+      }
+
+      .cls-18 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-19 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-20 {
+        letter-spacing: -.08em;
+      }
+
+      .cls-21 {
+        letter-spacing: 0em;
+      }
+
+      .cls-5, .cls-6 {
+        font-size: 15px;
+      }
+
+      .cls-22 {
+        letter-spacing: 0em;
+      }
+
+      .cls-8, .cls-23 {
+        letter-spacing: .01em;
+      }
+
+      .cls-24 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-16, .cls-17 {
+        font-family: Cambria-BoldItalic, Cambria;
+        font-style: italic;
+      }
+
+      .cls-25, .cls-17 {
+        letter-spacing: 0em;
+      }
+
+      .cls-26 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-27 {
+        letter-spacing: -.06em;
+      }
+
+      .cls-28 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-29 {
+        letter-spacing: -.08em;
+      }
+
+      .cls-30 {
+        fill: #ed1c24;
+      }
+
+      .cls-31 {
+        letter-spacing: 0em;
+      }
+
+      .cls-32 {
+        letter-spacing: -.03em;
+      }
+
+      .cls-2 {
+        stroke-width: .5px;
+      }
+
+      .cls-33 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-34 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-35 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-36 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-37 {
+        letter-spacing: -.02em;
+      }
+    </style>
+  </defs>
+  <path class="cls-11" d="m210.76,496.75h7.2c.59,0,1.09.48,1.09,1.07,0,.58-.49,1.07-1.09,1.07h-2.4v26.22c0,.58-.48,1.05-1.06,1.05h-.4c-.58,0-1.06-.47-1.06-1.05v-26.22h-2.28c-.6,0-1.09-.48-1.09-1.07,0-.59.48-1.07,1.09-1.07Z"/>
+  <path class="cls-11" d="m214.13,377.88v-7.2c0-.59-.48-1.09-1.07-1.09s-1.07.49-1.07,1.09v2.4h-26.22c-.58,0-1.05.48-1.05,1.06v.4c0,.58.47,1.06,1.05,1.06h26.22s0,2.28,0,2.28c0,.6.48,1.09,1.07,1.09.59,0,1.07-.48,1.07-1.09Z"/>
+  <path class="cls-30" d="m219.07,370.68v7.2c0,.59.48,1.09,1.07,1.09s1.07-.49,1.07-1.09v-2.4h26.22c.58,0,1.05-.48,1.05-1.06v-.4c0-.58-.47-1.06-1.05-1.06h-26.22v-2.28c0-.6-.48-1.09-1.07-1.09-.59,0-1.07.48-1.07,1.09Z"/>
+  <path class="cls-11" d="m220.2,616.75h-7.2c-.59,0-1.09.48-1.09,1.07,0,.58.49,1.07,1.09,1.07h2.4v26.22c0,.58.48,1.05,1.06,1.05h.4c.58,0,1.06-.47,1.06-1.05v-26.22h2.28c.6,0,1.09-.48,1.09-1.07,0-.59-.48-1.07-1.09-1.07Z"/>
+  <path class="cls-30" d="m219.07,610.68v7.2c0,.59.48,1.09,1.07,1.09s1.07-.49,1.07-1.09v-2.4h26.22c.58,0,1.05-.48,1.05-1.06v-.4c0-.58-.47-1.06-1.05-1.06h-26.22v-2.28c0-.6-.48-1.09-1.07-1.09-.59,0-1.07.48-1.07,1.09Z"/>
+  <path class="cls-30" d="m215.23,496.75h7.2c.59,0,1.09.48,1.09,1.07,0,.58-.49,1.07-1.09,1.07h-2.4v26.22c0,.58-.48,1.05-1.06,1.05h-.4c-.58,0-1.06-.47-1.06-1.05v-26.22h-2.28c-.6,0-1.09-.48-1.09-1.07,0-.59.48-1.07,1.09-1.07Z"/>
+  <path class="cls-11" d="m337.97,526.15h-7.2c-.59,0-1.09-.48-1.09-1.07,0-.58.49-1.07,1.09-1.07h2.4v-26.22c0-.58.48-1.05,1.06-1.05h.4c.58,0,1.06.47,1.06,1.05v26.22h2.28c.6,0,1.09.48,1.09,1.07,0,.59-.48,1.07-1.09,1.07Z"/>
+  <path class="cls-11" d="m304.73,370.68v7.2c0,.59.48,1.09,1.07,1.09s1.07-.49,1.07-1.09v-2.4h26.22c.58,0,1.05-.48,1.05-1.06v-.4c0-.58-.47-1.06-1.05-1.06h-26.22s0-2.28,0-2.28c0-.6-.48-1.09-1.07-1.09-.59,0-1.07.48-1.07,1.09Z"/>
+  <path class="cls-30" d="m368.47,377.88v-7.2c0-.59-.48-1.09-1.07-1.09s-1.07.49-1.07,1.09v2.4h-26.22c-.58,0-1.05.48-1.05,1.06v.4c0,.58.47,1.06,1.05,1.06h26.22v2.28c0,.6.48,1.09,1.07,1.09.59,0,1.07-.48,1.07-1.09Z"/>
+  <path class="cls-11" d="m333,646.15h7.2c.59,0,1.09-.48,1.09-1.07,0-.58-.49-1.07-1.09-1.07h-2.4v-26.22c0-.58-.48-1.05-1.06-1.05h-.4c-.58,0-1.06.47-1.06,1.05v26.22h-2.28c-.6,0-1.09.48-1.09,1.07,0,.59.48,1.07,1.09,1.07Z"/>
+  <path class="cls-30" d="m368.47,617.88v-7.2c0-.59-.48-1.09-1.07-1.09s-1.07.49-1.07,1.09v2.4h-26.22c-.58,0-1.05.48-1.05,1.06v.4c0,.58.47,1.06,1.05,1.06h26.22v2.28c0,.6.48,1.09,1.07,1.09.59,0,1.07-.48,1.07-1.09Z"/>
+  <path class="cls-30" d="m342.43,526.15h-7.2c-.59,0-1.09-.48-1.09-1.07s.49-1.07,1.09-1.07h2.4v-26.22c0-.58.48-1.05,1.06-1.05h.4c.58,0,1.06.47,1.06,1.05v26.22h2.28c.6,0,1.09.48,1.09,1.07,0,.59-.48,1.07-1.09,1.07Z"/>
+  <path class="cls-11" d="m450.76,496.75h7.2c.59,0,1.09.48,1.09,1.07,0,.58-.49,1.07-1.09,1.07h-2.4v26.22c0,.58-.48,1.05-1.06,1.05h-.4c-.58,0-1.06-.47-1.06-1.05v-26.22h-2.28c-.6,0-1.09-.48-1.09-1.07,0-.59.48-1.07,1.09-1.07Z"/>
+  <path class="cls-11" d="m454.13,377.88v-7.2c0-.59-.48-1.09-1.07-1.09s-1.07.49-1.07,1.09v2.4h-26.22c-.58,0-1.05.48-1.05,1.06v.4c0,.58.47,1.06,1.05,1.06h26.22s0,2.28,0,2.28c0,.6.48,1.09,1.07,1.09.59,0,1.07-.48,1.07-1.09Z"/>
+  <path class="cls-30" d="m488.47,377.88v-7.2c0-.59-.48-1.09-1.07-1.09s-1.07.49-1.07,1.09v2.4h-26.22c-.58,0-1.05.48-1.05,1.06v.4c0,.58.47,1.06,1.05,1.06h26.22v2.28c0,.6.48,1.09,1.07,1.09.59,0,1.07-.48,1.07-1.09Z"/>
+  <path class="cls-11" d="m460.2,616.75h-7.2c-.59,0-1.09.48-1.09,1.07,0,.58.49,1.07,1.09,1.07h2.4v26.22c0,.58.48,1.05,1.06,1.05h.4c.58,0,1.06-.47,1.06-1.05v-26.22h2.28c.6,0,1.09-.48,1.09-1.07,0-.59-.48-1.07-1.09-1.07Z"/>
+  <path class="cls-30" d="m488.47,617.88v-7.2c0-.59-.48-1.09-1.07-1.09s-1.07.49-1.07,1.09v2.4h-26.22c-.58,0-1.05.48-1.05,1.06v.4c0,.58.47,1.06,1.05,1.06h26.22v2.28c0,.6.48,1.09,1.07,1.09.59,0,1.07-.48,1.07-1.09Z"/>
+  <path class="cls-30" d="m462.43,526.15h-7.2c-.59,0-1.09-.48-1.09-1.07s.49-1.07,1.09-1.07h2.4v-26.22c0-.58.48-1.05,1.06-1.05h.4c.58,0,1.06.47,1.06,1.05v26.22h2.28c.6,0,1.09.48,1.09,1.07,0,.59-.48,1.07-1.09,1.07Z"/>
+  <text class="cls-4" transform="translate(200.94 50.84)"><tspan x="0" y="0">Staff Positions</tspan></text>
+  <text class="cls-6" transform="translate(55.37 91.84)"><tspan class="cls-9"><tspan x="0" y="0">When writing sequences with st</tspan><tspan class="cls-28" x="204.98" y="0">av</tspan><tspan x="219.28" y="0">es, it helps </tspan><tspan class="cls-21" x="289.72" y="0">t</tspan><tspan x="294.67" y="0">o ma</tspan><tspan class="cls-25" x="325.74" y="0">r</tspan><tspan x="331.87" y="0">k the thumb end with a line. </tspan></tspan><tspan class="cls-9"><tspan x="-30.9" y="18">The per</tspan><tspan class="cls-19" x="18.75" y="18">f</tspan><tspan x="23.11" y="18">ormer can use it </tspan><tspan class="cls-21" x="130.09" y="18">t</tspan><tspan x="135.03" y="18">o </tspan><tspan class="cls-12" x="146.3" y="18">k</tspan><tspan x="153.91" y="18">eep t</tspan><tspan class="cls-12" x="185.26" y="18">r</tspan><tspan x="191.21" y="18">ack of </tspan><tspan class="cls-34" x="232.12" y="18">r</tspan><tspan x="238.11" y="18">otations and check their position on </tspan><tspan class="cls-31" x="470.88" y="18">e</tspan><tspan class="cls-28" x="478.05" y="18">v</tspan><tspan x="485.31" y="18">ery bea</tspan><tspan class="cls-23" x="532.55" y="18">t</tspan><tspan x="537.84" y="18">. </tspan></tspan><tspan class="cls-9"><tspan x="26.04" y="36">It also encou</tspan><tspan class="cls-12" x="106.93" y="36">r</tspan><tspan x="112.88" y="36">ages ne</tspan><tspan class="cls-22" x="160.37" y="36">g</tspan><tspan x="167.66" y="36">at</tspan><tspan class="cls-35" x="180.06" y="36">i</tspan><tspan class="cls-28" x="183.93" y="36">v</tspan><tspan x="191.19" y="36">e space/bo</tspan><tspan class="cls-35" x="261.38" y="36">d</tspan><tspan x="269.4" y="36">y turns ins</tspan><tspan class="cls-21" x="336.93" y="36">t</tspan><tspan x="341.87" y="36">ead of finger spinning.</tspan></tspan><tspan class="cls-9"><tspan x="55.95" y="72">In the </tspan><tspan class="cls-19" x="96.46" y="72">f</tspan><tspan x="100.82" y="72">oll</tspan><tspan class="cls-25" x="116.92" y="72">o</tspan><tspan x="124.81" y="72">wing </tspan><tspan class="cls-13" x="159.68" y="72">e</tspan><tspan class="cls-26" x="166.82" y="72">x</tspan><tspan x="173.87" y="72">amples, an end is a</tspan><tspan class="cls-12" x="293.78" y="72">l</tspan><tspan class="cls-33" x="297.6" y="72">w</tspan><tspan class="cls-28" x="308.94" y="72">a</tspan><tspan class="cls-18" x="315.97" y="72">y</tspan><tspan x="323.36" y="72">s at the cen</tspan><tspan class="cls-21" x="395.09" y="72">t</tspan><tspan x="400.03" y="72">er poin</tspan><tspan class="cls-23" x="445.7" y="72">t</tspan><tspan x="451" y="72">. </tspan></tspan><tspan class="cls-9" x="108.65" y="90">In The Kinetic Alphabe</tspan><tspan class="cls-8" x="254.33" y="90">t</tspan><tspan class="cls-9" x="259.62" y="90">, this is called </tspan><tspan class="cls-16" x="348.21" y="90">L</tspan><tspan class="cls-17" x="356.18" y="90">ay</tspan><tspan class="cls-16" x="372.08" y="90">er 1</tspan><tspan class="cls-9" x="398.29" y="90">.</tspan><tspan class="cls-9"><tspan class="cls-27" x="-3.61" y="108">W</tspan><tspan x="9.33" y="108">e will learn much mo</tspan><tspan class="cls-34" x="143.17" y="108">r</tspan><tspan x="149.16" y="108">e about L</tspan><tspan class="cls-28" x="207.99" y="108">ay</tspan><tspan x="222.28" y="108">ers in the futu</tspan><tspan class="cls-34" x="311.55" y="108">r</tspan><tspan x="317.53" y="108">e, but this is our starting poin</tspan><tspan class="cls-23" x="505.26" y="108">t</tspan><tspan x="510.56" y="108">. </tspan></tspan><tspan class="cls-9"><tspan x="-7.11" y="144">These </tspan><tspan class="cls-37" x="34.44" y="144">v</tspan><tspan x="41.68" y="144">ariations a</tspan><tspan class="cls-34" x="109.35" y="144">r</tspan><tspan x="115.33" y="144">e classified </tspan><tspan class="cls-34" x="188.67" y="144">b</tspan><tspan x="196.66" y="144">y the thumb end’s </tspan><tspan class="cls-34" x="314.2" y="144">r</tspan><tspan x="320.18" y="144">elationship </tspan><tspan class="cls-21" x="395.01" y="144">t</tspan><tspan x="399.95" y="144">o the cen</tspan><tspan class="cls-21" x="457.49" y="144">t</tspan><tspan x="462.43" y="144">er point:</tspan></tspan><tspan class="cls-15"><tspan x="9.06" y="180">P</tspan><tspan class="cls-12" x="18.26" y="180">r</tspan><tspan x="24.93" y="180">acti</tspan><tspan class="cls-10" x="50.18" y="180">c</tspan><tspan x="57.12" y="180">e each position bel</tspan><tspan class="cls-24" x="185.3" y="180">o</tspan><tspan class="cls-29" x="193.52" y="180">w</tspan><tspan x="204.27" y="180">, p</tspan><tspan class="cls-14" x="220.01" y="180">a</tspan><tspan x="227.56" y="180">ying at</tspan><tspan class="cls-26" x="273.9" y="180">t</tspan><tspan x="279.17" y="180">ention </tspan><tspan class="cls-26" x="327.28" y="180">t</tspan><tspan x="332.55" y="180">o the thumb orientation.</tspan></tspan></text>
+  <g>
+    <text class="cls-3" transform="translate(206.93 309.37)"><tspan x="0" y="0">In</tspan></text>
+    <text class="cls-3" transform="translate(93.37 306.23)"><tspan x="0" y="0">Thumbs:</tspan></text>
+    <text class="cls-3" transform="translate(101.8 409.71)"><tspan x="0" y="0">Alpha</tspan></text>
+    <text class="cls-3" transform="translate(106.6 533.74)"><tspan x="0" y="0">Beta</tspan></text>
+    <text class="cls-3" transform="translate(95.33 652.84)"><tspan x="0" y="0">Gamma</tspan></text>
+    <text class="cls-3" transform="translate(320.1 309.37)"><tspan x="0" y="0">Out</tspan></text>
+    <text class="cls-3" transform="translate(429.89 309.37)"><tspan x="0" y="0">Mi</tspan><tspan class="cls-36" x="18.59" y="0">x</tspan><tspan x="26.43" y="0">ed</tspan></text>
+    <path d="m135,375.51c-1.56,0-2.25.6-3.08,1.58-.4.46-.93,2.82-1.81,1.32-1.81-3.09.05-10.97,2.55-14.45.66-.89-.26-1.41-.72-1.67,0,0-1.01-.52-1.53-.35-.69.23-1.44-.29-3.34,3.95-2.85-3.28-6.19-2.85-8.47-2.77-2.02.09-8.1,2.33-8.1,9.42,0,8.53,7.32,10.11,9.54,10.11s5.96-1.44,6.91-2.3c.58,1.73,1.61,2.79,2.91,3.05,2.02.43,2.91-.58,3.72-1.7,1.18-1.61,2.54-6.16,1.41-6.19Zm-14.95,2.39c-2.94,0-5.33-2.42-5.33-5.36s2.39-5.33,5.33-5.33,5.36,2.42,5.36,5.33-2.42,5.36-5.36,5.36Z"/>
+    <path d="m130.63,490.34c-.44-.54-.93-1-1.42-1.42,7.95-9.03-10.62-14.63-10.88-3.65-.03,5.21-.05,9.32-.05,14.53-1.85-.57-3.91.62-4.21,2.65-.19,5.09,4.92,4.22,6.76,2,.7-.84.97-1.52,1.2-4.09,6.95,3.7,12.42-4.01,8.6-10.02Zm-2.99,6.99c-2.09,1.64-3.02.04-4.48-.39-.32-.1-.66-.06-1,.07,0-4.15.02-8.26.05-12.47-.35-2.33,2.97-3.09,4.43-1.52,1.23,1.32,1.01,3.58-.46,4.09-4.79-1.28-4.31,5.63,0,3.9,2.03.6,3.56,4.18,1.47,6.32Z"/>
+    <path d="m133.62,601.47c-.05.72-.39,1.58-2.44,1.48-2.05-.1-10.6.11-11.79.19.03,1.51.7,9.71,1.17,19.66.14,3.05-1.18,3.42-1.72,3.42-.91,0-2.49-1.17-2.78-3.07-.24-1.77-.42-5.83-.61-10.09-.16-3.71-.32-7.52-.56-10.12l-2.57.85.08-2.75c.11-.56.67-1.24,1.06-1.27s17.33-.61,18.3-.53,1.88,1.43,1.85,2.25Z"/>
+    <line class="cls-1" x1="90.17" y1="432.28" x2="500.84" y2="432.28"/>
+    <line class="cls-1" x1="90.17" y1="552.28" x2="500.84" y2="552.28"/>
+    <line class="cls-2" x1="160.76" y1="291.64" x2="160.76" y2="662.66"/>
+    <line class="cls-2" x1="279.56" y1="291.64" x2="279.56" y2="662.66"/>
+    <line class="cls-2" x1="398.36" y1="291.64" x2="398.36" y2="662.66"/>
+    <line class="cls-1" x1="90.17" y1="318.25" x2="500.84" y2="318.25"/>
+    <g>
+      <path class="cls-7" d="m216.6,375.78c1.93,0,1.93-3,0-3s-1.93,3,0,3h0Z"/>
+      <circle class="cls-7" cx="252.6" cy="374.28" r="3"/>
+      <circle class="cls-7" cx="216.6" cy="410.28" r="3"/>
+      <circle class="cls-7" cx="180.6" cy="374.28" r="3"/>
+      <circle class="cls-7" cx="216.6" cy="338.28" r="3"/>
+    </g>
+    <g>
+      <path class="cls-7" d="m216.6,495.78c1.93,0,1.93-3,0-3s-1.93,3,0,3h0Z"/>
+      <circle class="cls-7" cx="252.6" cy="494.28" r="3"/>
+      <circle class="cls-7" cx="216.6" cy="530.28" r="3"/>
+      <circle class="cls-7" cx="180.6" cy="494.28" r="3"/>
+      <circle class="cls-7" cx="216.6" cy="458.28" r="3"/>
+    </g>
+    <g>
+      <path class="cls-7" d="m216.6,615.78c1.93,0,1.93-3,0-3s-1.93,3,0,3h0Z"/>
+      <circle class="cls-7" cx="252.6" cy="614.28" r="3"/>
+      <circle class="cls-7" cx="216.6" cy="650.28" r="3"/>
+      <circle class="cls-7" cx="180.6" cy="614.28" r="3"/>
+      <circle class="cls-7" cx="216.6" cy="578.28" r="3"/>
+    </g>
+    <g>
+      <path class="cls-7" d="m336.6,375.78c1.93,0,1.93-3,0-3s-1.93,3,0,3h0Z"/>
+      <circle class="cls-7" cx="372.6" cy="374.28" r="3"/>
+      <circle class="cls-7" cx="336.6" cy="410.28" r="3"/>
+      <circle class="cls-7" cx="300.6" cy="374.28" r="3"/>
+      <circle class="cls-7" cx="336.6" cy="338.28" r="3"/>
+    </g>
+    <g>
+      <path class="cls-7" d="m336.6,495.78c1.93,0,1.93-3,0-3s-1.93,3,0,3h0Z"/>
+      <circle class="cls-7" cx="372.6" cy="494.28" r="3"/>
+      <circle class="cls-7" cx="336.6" cy="530.28" r="3"/>
+      <circle class="cls-7" cx="300.6" cy="494.28" r="3"/>
+      <circle class="cls-7" cx="336.6" cy="458.28" r="3"/>
+    </g>
+    <g>
+      <path class="cls-7" d="m336.6,615.78c1.93,0,1.93-3,0-3s-1.93,3,0,3h0Z"/>
+      <circle class="cls-7" cx="372.6" cy="614.28" r="3"/>
+      <circle class="cls-7" cx="336.6" cy="650.28" r="3"/>
+      <circle class="cls-7" cx="300.6" cy="614.28" r="3"/>
+      <circle class="cls-7" cx="336.6" cy="578.28" r="3"/>
+    </g>
+    <g>
+      <path class="cls-7" d="m456.6,375.78c1.93,0,1.93-3,0-3s-1.93,3,0,3h0Z"/>
+      <circle class="cls-7" cx="492.6" cy="374.28" r="3"/>
+      <circle class="cls-7" cx="456.6" cy="410.28" r="3"/>
+      <circle class="cls-7" cx="420.6" cy="374.28" r="3"/>
+      <circle class="cls-7" cx="456.6" cy="338.28" r="3"/>
+    </g>
+    <g>
+      <path class="cls-7" d="m456.6,495.78c1.93,0,1.93-3,0-3s-1.93,3,0,3h0Z"/>
+      <circle class="cls-7" cx="492.6" cy="494.28" r="3"/>
+      <circle class="cls-7" cx="456.6" cy="530.28" r="3"/>
+      <circle class="cls-7" cx="420.6" cy="494.28" r="3"/>
+      <circle class="cls-7" cx="456.6" cy="458.28" r="3"/>
+    </g>
+    <g>
+      <path class="cls-7" d="m456.6,615.78c1.93,0,1.93-3,0-3s-1.93,3,0,3h0Z"/>
+      <circle class="cls-7" cx="492.6" cy="614.28" r="3"/>
+      <circle class="cls-7" cx="456.6" cy="650.28" r="3"/>
+      <circle class="cls-7" cx="420.6" cy="614.28" r="3"/>
+      <circle class="cls-7" cx="456.6" cy="578.28" r="3"/>
+    </g>
+  </g>
+  <text class="cls-5" transform="translate(34.52 703.49)"><tspan x="0" y="0">Ma</tspan><tspan class="cls-28" x="19.56" y="0">n</tspan><tspan x="27.63" y="0">y of pic</tspan><tspan class="cls-21" x="73.43" y="0">t</tspan><tspan x="78.37" y="0">og</tspan><tspan class="cls-12" x="93.74" y="0">r</tspan><tspan x="99.69" y="0">aphs in this guide a</tspan><tspan class="cls-34" x="222.62" y="0">r</tspan><tspan x="228.6" y="0">e depic</tspan><tspan class="cls-21" x="273.98" y="0">t</tspan><tspan x="278.93" y="0">ed without thumb ends because it does</tspan><tspan class="cls-32" x="528.42" y="0">n</tspan><tspan x="536.35" y="0">’t </tspan><tspan x="59.89" y="18">af</tspan><tspan class="cls-19" x="71.75" y="18">f</tspan><tspan x="76.11" y="18">ect the let</tspan><tspan class="cls-21" x="138.86" y="18">t</tspan><tspan x="143.8" y="18">er ca</tspan><tspan class="cls-21" x="174.56" y="18">t</tspan><tspan x="179.51" y="18">egorization. It is on</tspan><tspan class="cls-35" x="302.16" y="18">l</tspan><tspan x="305.93" y="18">y nota</tspan><tspan class="cls-21" x="345.52" y="18">t</tspan><tspan x="350.47" y="18">ed during sequences.</tspan><tspan x="34.46" y="54">Most </tspan><tspan class="cls-13" x="69.48" y="54">e</tspan><tspan class="cls-26" x="76.62" y="54">x</tspan><tspan x="83.66" y="54">ample sequences in this guide start with thumbs in </tspan><tspan class="cls-19" x="411.82" y="54">f</tspan><tspan x="416.18" y="54">or consis</tspan><tspan class="cls-21" x="473.65" y="54">t</tspan><tspan x="478.59" y="54">enc</tspan><tspan class="cls-20" x="500.9" y="54">y</tspan><tspan x="507.21" y="54">.</tspan><tspan x="37.03" y="72">It’s equal</tspan><tspan class="cls-35" x="95.23" y="72">l</tspan><tspan x="99.01" y="72">y </tspan><tspan class="cls-37" x="109.87" y="72">v</tspan><tspan x="117.1" y="72">alid </tspan><tspan class="cls-21" x="144.29" y="72">t</tspan><tspan x="149.23" y="72">o start a</tspan><tspan class="cls-28" x="201.25" y="72">n</tspan><tspan x="209.33" y="72">y sequence f</tspan><tspan class="cls-34" x="287.9" y="72">r</tspan><tspan x="293.89" y="72">om a dif</tspan><tspan class="cls-19" x="345.29" y="72">f</tspan><tspan x="349.65" y="72">e</tspan><tspan class="cls-34" x="356.96" y="72">r</tspan><tspan x="362.95" y="72">ent thumb orientation.</tspan></text>
+  <text/>
+</svg>

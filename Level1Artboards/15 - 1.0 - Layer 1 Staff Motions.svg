@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 612 792">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: .02em;
+      }
+
+      .cls-2, .cls-3 {
+        font-family: Cambria-Bold, Cambria;
+        font-weight: 700;
+      }
+
+      .cls-2, .cls-4, .cls-5 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-6, .cls-7, .cls-8, .cls-9, .cls-10, .cls-11, .cls-12, .cls-13, .cls-14, .cls-15, .cls-16 {
+        fill: #231f20;
+      }
+
+      .cls-6, .cls-10, .cls-13 {
+        font-size: 16px;
+      }
+
+      .cls-7 {
+        stroke-width: .5px;
+      }
+
+      .cls-7, .cls-12 {
+        stroke: #231f20;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-17, .cls-18, .cls-10, .cls-4, .cls-19 {
+        font-family: Cambria, Cambria;
+      }
+
+      .cls-17, .cls-20 {
+        letter-spacing: 0em;
+      }
+
+      .cls-8 {
+        font-size: 40px;
+      }
+
+      .cls-8, .cls-11 {
+        font-family: MonotypeCorsiva, 'Monotype Corsiva';
+      }
+
+      .cls-18 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-9 {
+        font-size: 20px;
+      }
+
+      .cls-9, .cls-13, .cls-15 {
+        font-family: Cambria-Italic, Cambria;
+        font-style: italic;
+      }
+
+      .cls-11 {
+        font-size: 30px;
+      }
+
+      .cls-12 {
+        stroke-width: 2px;
+      }
+
+      .cls-14 {
+        font-size: 15px;
+      }
+
+      .cls-21 {
+        letter-spacing: 0em;
+      }
+
+      .cls-22 {
+        letter-spacing: 0em;
+      }
+
+      .cls-23 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-24 {
+        fill: #ed1c24;
+      }
+
+      .cls-15 {
+        font-size: 12px;
+      }
+
+      .cls-25 {
+        letter-spacing: 0em;
+      }
+
+      .cls-26 {
+        letter-spacing: .01em;
+      }
+
+      .cls-27 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-28 {
+        letter-spacing: -.02em;
+      }
+    </style>
+  </defs>
+  <text class="cls-8" transform="translate(203.5 37.33)"><tspan x="0" y="0">Staff Motions</tspan></text>
+  <text class="cls-11" transform="translate(277.58 88.9)"><tspan x="0" y="0">Shift</tspan></text>
+  <text class="cls-11" transform="translate(276.07 607.26)"><tspan x="0" y="0">Dash</tspan></text>
+  <path class="cls-24" d="m134.12,500.9h-7.2c-.59,0-1.09.48-1.09,1.07,0,.58.49,1.07,1.09,1.07h2.4v26.22c0,.58.48,1.05,1.06,1.05h.4c.58,0,1.06-.47,1.06-1.05v-26.22s2.28,0,2.28,0c.6,0,1.09-.48,1.09-1.07,0-.59-.48-1.07-1.09-1.07Z"/>
+  <path class="cls-24" d="m402.39,494.83v7.2c0,.59-.48,1.09-1.07,1.09s-1.07-.49-1.07-1.09v-2.4s-26.22,0-26.22,0c-.58,0-1.05-.48-1.05-1.06v-.4c0-.58.47-1.06,1.05-1.06h26.22s0-2.28,0-2.28c0-.6.48-1.09,1.07-1.09.59,0,1.07.48,1.07,1.09Z"/>
+  <path class="cls-24" d="m522.39,494.83v7.2c0,.59-.48,1.09-1.07,1.09s-1.07-.49-1.07-1.09v-2.4s-26.22,0-26.22,0c-.58,0-1.05-.48-1.05-1.06v-.4c0-.58.47-1.06,1.05-1.06h26.22s0-2.28,0-2.28c0-.6.48-1.09,1.07-1.09.59,0,1.07.48,1.07,1.09Z"/>
+  <path class="cls-24" d="m495.34,532.5c0-23.28,1.56-25.52,24.18-25.52l-3.27-3.19s1.25-1.32,2.24-.6c1.41,1.03,4.74,4.9,4.74,4.9,0,0-3.61,4.05-4.74,4.88-.99.73-2.24-.57-2.24-.57l3.27-3.07c-20.73,0-21.69,1.2-21.69,23.14,0,1.81-2.49,1.81-2.49.04Z"/>
+  <path class="cls-16" d="m312.1,499.81v5.18h-2.87v-5.18h-5.12v-2.75h5.12v-5.19h2.87v5.19h5.12v2.75h-5.12Z"/>
+  <path class="cls-16" d="m191.99,499.81v5.18h-2.87v-5.18h-5.12v-2.75h5.12v-5.19h2.87v5.19h5.12v2.75h-5.12Z"/>
+  <path class="cls-16" d="m424.34,496.84v-2.8h12.65v2.8h-12.65Zm0,5.98v-2.8h12.65v2.8h-12.65Z"/>
+  <text class="cls-13" transform="translate(114.48 445.66)"><tspan x="0" y="0">s</tspan><tspan class="cls-21" x="6.11" y="0">t</tspan><tspan x="11.52" y="0">art</tspan></text>
+  <text class="cls-13" transform="translate(223.41 445.66)"><tspan x="0" y="0">hal</tspan><tspan class="cls-1" x="21.16" y="0">f</tspan><tspan class="cls-22" x="26.16" y="0">wa</tspan><tspan x="46.05" y="0">y</tspan></text>
+  <text class="cls-13" transform="translate(357.64 445.66)"><tspan x="0" y="0">end</tspan></text>
+  <text class="cls-9" transform="translate(11.87 159.78)"><tspan x="0" y="0">P</tspan><tspan class="cls-25" x="11.1" y="0">r</tspan><tspan x="19.05" y="0">ospin</tspan></text>
+  <text class="cls-9" transform="translate(11.87 391.93)"><tspan class="cls-25" x="0" y="0">A</tspan><tspan x="11.57" y="0">ntispin</tspan></text>
+  <text class="cls-6" transform="translate(27.43 342.71)"><tspan class="cls-19" x="0" y="0">In a base isolation, the thumb orientation </tspan><tspan class="cls-4" x="284.37" y="0">r</tspan><tspan class="cls-19" x="290.75" y="0">emains the same </tspan><tspan class="cls-18" x="408.35" y="0">f</tspan><tspan class="cls-19" x="413" y="0">or the enti</tspan><tspan class="cls-4" x="483.8" y="0">r</tspan><tspan class="cls-19" x="490.18" y="0">e motion.</tspan><tspan class="cls-3" x="553.88" y="0"> </tspan></text>
+  <text class="cls-6" transform="translate(108.4 396.11)"><tspan class="cls-19" x="0" y="0">• </tspan><tspan class="cls-3" x="10.62" y="0">Antispin</tspan><tspan class="cls-19" x="73.16" y="0" xml:space="preserve"> - The p</tspan><tspan class="cls-4" x="124.06" y="0">r</tspan><tspan class="cls-19" x="130.45" y="0">op </tspan><tspan class="cls-4" x="151.36" y="0">r</tspan><tspan class="cls-19" x="157.74" y="0">ota</tspan><tspan class="cls-17" x="179.46" y="0">t</tspan><tspan class="cls-19" x="184.73" y="0">es in the opposi</tspan><tspan class="cls-17" x="291.51" y="0">t</tspan><tspan class="cls-19" x="296.78" y="0">e di</tspan><tspan class="cls-4" x="321.43" y="0">r</tspan><tspan class="cls-19" x="327.81" y="0">ection of the hand</tspan><tspan class="cls-19"><tspan x="67.78" y="19.2">A 90 deg</tspan><tspan class="cls-5" x="127.1" y="19.2">r</tspan><tspan x="133.48" y="19.2">ee antispin is our base unit of antispin.</tspan></tspan></text>
+  <line class="cls-7" x1="34.67" y1="356.43" x2="573.13" y2="356.43"/>
+  <line class="cls-12" x1="-2.01" y1="576.18" x2="609.99" y2="576.18"/>
+  <path class="cls-24" d="m244.48,520.91c.53-.72,2.71-2.62,2.71-2.62,0,0,2.16,1.87,2.68,2.59.39.54-.34,1.25-.34,1.25l-1.73-1.71-.11,10.36c0,.88-1.24.89-1.24,0l.11-10.36-1.76,1.73s-.72-.69-.33-1.24Z"/>
+  <path class="cls-24" d="m365.01,501.87c.53-.72,2.71-2.62,2.71-2.62,0,0,2.16,1.87,2.68,2.59.39.54-.34,1.25-.34,1.25l-1.73-1.71-.11,10.36c0,.88-1.24.89-1.24,0l.11-10.36-1.76,1.73s-.72-.69-.33-1.24Z"/>
+  <path class="cls-24" d="m264.05,492.74c.72.53,2.62,2.71,2.62,2.71,0,0-1.87,2.16-2.59,2.68-.54.39-1.25-.34-1.25-.34l1.71-1.73-10.36-.11c-.88,0-.89-1.24,0-1.24l10.36.11-1.73-1.76s.69-.72,1.24-.33Z"/>
+  <path class="cls-24" d="m403.54,488.24c.72.53,2.62,2.71,2.62,2.71,0,0-1.87,2.16-2.59,2.68-.54.39-1.25-.34-1.25-.34l1.71-1.73-10.36-.11c-.88,0-.89-1.24,0-1.24l10.36.11-1.73-1.76s.69-.72,1.24-.33Z"/>
+  <text class="cls-10" transform="translate(12.21 558.31)"><tspan x="0" y="0">In an antispin, the ends </tspan><tspan class="cls-22" x="162.04" y="0">s</tspan><tspan x="168.84" y="0">wi</tspan><tspan class="cls-20" x="185.67" y="0">t</tspan><tspan x="190.95" y="0">ch orientation. He</tspan><tspan class="cls-5" x="312.74" y="0">r</tspan><tspan x="319.12" y="0">e, it m</tspan><tspan class="cls-5" x="360.43" y="0">o</tspan><tspan class="cls-23" x="368.69" y="0">v</tspan><tspan x="376.44" y="0">es f</tspan><tspan class="cls-5" x="399.48" y="0">r</tspan><tspan x="405.87" y="0">om thumb in </tspan><tspan class="cls-20" x="496.77" y="0">t</tspan><tspan x="502.04" y="0">o thumb ou</tspan><tspan class="cls-26" x="580.05" y="0">t</tspan><tspan x="585.7" y="0">.</tspan></text>
+  <text class="cls-10" transform="translate(131.05 634.48)"><tspan x="0" y="0">In a base dash, the thumb orientation also </tspan><tspan class="cls-22" x="288.55" y="0">s</tspan><tspan x="295.35" y="0">wi</tspan><tspan class="cls-20" x="312.19" y="0">t</tspan><tspan x="317.46" y="0">ches.</tspan><tspan class="cls-5" x="-40.02" y="19.2">A</tspan><tspan x="-30.29" y="19.2">t its half</tspan><tspan class="cls-28" x="24.74" y="19.2">w</tspan><tspan class="cls-23" x="36.83" y="19.2">a</tspan><tspan x="44.33" y="19.2">y poin</tspan><tspan class="cls-26" x="86.68" y="19.2">t</tspan><tspan x="92.33" y="19.2">, the cen</tspan><tspan class="cls-20" x="148.5" y="19.2">t</tspan><tspan x="153.77" y="19.2">er of the staff is at the cen</tspan><tspan class="cls-20" x="328.41" y="19.2">t</tspan><tspan x="333.68" y="19.2">er poin</tspan><tspan class="cls-26" x="382.39" y="19.2">t</tspan><tspan x="388.04" y="19.2">.</tspan></text>
+  <text class="cls-15" transform="translate(38.88 492.39)"><tspan x="0" y="0">s</tspan><tspan class="cls-21" x="4.58" y="0">t</tspan><tspan x="8.64" y="0">art </tspan><tspan x="-10.55" y="14.4">thumb in</tspan></text>
+  <text class="cls-15" transform="translate(558.43 492.39)"><tspan x="0" y="0">end</tspan><tspan x="-16.93" y="14.4">thumb out</tspan></text>
+  <g>
+    <path class="cls-24" d="m372.97,266.68v-7.2c0-.59.48-1.09,1.07-1.09.58,0,1.07.49,1.07,1.09v2.4s26.22,0,26.22,0c.58,0,1.05.48,1.05,1.06v.4c0,.58-.47,1.06-1.05,1.06h-26.22s0,2.28,0,2.28c0,.6-.48,1.09-1.07,1.09s-1.07-.48-1.07-1.09Z"/>
+    <path class="cls-24" d="m134.1,265.55h-7.2c-.59,0-1.09.48-1.09,1.07,0,.58.49,1.07,1.09,1.07h2.4v26.22c0,.58.48,1.05,1.06,1.05h.4c.58,0,1.06-.47,1.06-1.05v-26.22s2.28,0,2.28,0c.6,0,1.09-.48,1.09-1.07,0-.59-.48-1.07-1.09-1.07Z"/>
+    <path class="cls-24" d="m254.79,262.28l-5.09,5.09c-.42.42-.43,1.11-.01,1.52s1.1.41,1.52-.01l1.7-1.7,18.54,18.54c.41.41,1.08.4,1.49-.01l.28-.28c.41-.41.42-1.08.01-1.49l-18.54-18.54,1.61-1.61c.43-.43.43-1.11.01-1.52s-1.1-.41-1.52.01Z"/>
+    <path class="cls-24" d="m253.88,295.96c3.8.07,9.76-.97,15.49-5.19l-.24,4.29s1.8.11,2.03-1.1c.27-1.35.19-6.79.19-6.79,0,0-5.07-.61-6.79-.41-1.22.14-1.25,1.96-1.25,1.96l4.57.18c-4.79,3.45-8.86,4.55-14.24,4.46-1.89-.03-1.71,2.57.23,2.6Z"/>
+    <path class="cls-24" d="m395.97,283.82c2.74-2.64,6.22-7.59,7.28-14.62l2.86,3.2s1.35-1.2.66-2.21c-.77-1.15-4.67-4.94-4.67-4.94,0,0-4.01,3.16-5.1,4.51-.77.96.5,2.27.5,2.27l3.36-3.1c-.94,5.83-3.05,9.48-6.91,13.22-1.36,1.31.6,3.02,2,1.67Z"/>
+    <path class="cls-24" d="m496.01,296.47c14.27,0,27.22-11.49,27.26-25.66l2.89,3.18s1.34-1.21.64-2.22c-.78-1.14-4.71-4.9-4.71-4.9,0,0-3.98,3.19-5.05,4.56-.76.97.52,2.27.52,2.27l3.33-3.13c-.03,10.71-8.78,22.54-24.89,23.4-1.88.1-1.94,2.5,0,2.5Z"/>
+    <path class="cls-24" d="m492.97,266.68v-7.2c0-.59.48-1.09,1.07-1.09.58,0,1.07.49,1.07,1.09v2.4h26.22c.58,0,1.05.48,1.05,1.06v.4c0,.58-.47,1.06-1.05,1.06h-26.22s0,2.28,0,2.28c0,.6-.48,1.09-1.07,1.09s-1.07-.48-1.07-1.09Z"/>
+    <path class="cls-16" d="m312.1,264.46v5.18h-2.87v-5.18h-5.12v-2.75h5.12v-5.19h2.87v5.19h5.12v2.75h-5.12Z"/>
+    <path class="cls-16" d="m424.34,261.49v-2.8h12.65v2.8h-12.65Zm0,5.98v-2.8h12.65v2.8h-12.65Z"/>
+    <path class="cls-16" d="m191.99,264.46v5.18h-2.87v-5.18h-5.12v-2.75h5.12v-5.19h2.87v5.19h5.12v2.75h-5.12Z"/>
+    <text class="cls-13" transform="translate(114.48 212.74)"><tspan x="0" y="0">s</tspan><tspan class="cls-21" x="6.11" y="0">t</tspan><tspan x="11.52" y="0">art</tspan></text>
+    <text class="cls-13" transform="translate(223.41 212.74)"><tspan x="0" y="0">hal</tspan><tspan class="cls-1" x="21.16" y="0">f</tspan><tspan class="cls-22" x="26.16" y="0">wa</tspan><tspan x="46.05" y="0">y</tspan></text>
+    <text class="cls-13" transform="translate(357.64 212.74)"><tspan x="0" y="0">end</tspan></text>
+    <text class="cls-14" transform="translate(115.16 153.14)"><tspan class="cls-19" x="0" y="0">• </tspan><tspan class="cls-3" x="9.95" y="0">P</tspan><tspan class="cls-2" x="19.16" y="0">r</tspan><tspan class="cls-3" x="25.86" y="0">ospin</tspan><tspan class="cls-19" x="64.01" y="0" xml:space="preserve">  - The p</tspan><tspan class="cls-4" x="115.03" y="0">r</tspan><tspan class="cls-19" x="121.02" y="0">op </tspan><tspan class="cls-4" x="140.62" y="0">r</tspan><tspan class="cls-19" x="146.61" y="0">ota</tspan><tspan class="cls-17" x="166.97" y="0">t</tspan><tspan class="cls-19" x="171.91" y="0">es the same di</tspan><tspan class="cls-4" x="262.31" y="0">r</tspan><tspan class="cls-19" x="268.29" y="0">ection as the hand </tspan><tspan class="cls-19"><tspan x="0" y="18">A 90 deg</tspan><tspan class="cls-5" x="55.61" y="18">r</tspan><tspan x="61.6" y="18">ee isolation is our base unit of a p</tspan><tspan class="cls-5" x="274.63" y="18">r</tspan><tspan x="280.61" y="18">ospin.</tspan></tspan></text>
+    <text class="cls-15" transform="translate(38.88 257.04)"><tspan x="0" y="0">s</tspan><tspan class="cls-21" x="4.58" y="0">t</tspan><tspan x="8.64" y="0">art </tspan><tspan x="-10.55" y="14.4">thumb in</tspan></text>
+    <text class="cls-15" transform="translate(558.43 256.31)"><tspan x="0" y="0">end</tspan><tspan x="-13.44" y="14.4">thumb in</tspan></text>
+    <g>
+      <path class="cls-16" d="m130.49,264.58c1.93,0,1.93-3,0-3s-1.93,3,0,3h0Z"/>
+      <circle class="cls-16" cx="166.49" cy="263.08" r="3"/>
+      <circle class="cls-16" cx="130.49" cy="299.08" r="3"/>
+      <circle class="cls-16" cx="94.49" cy="263.08" r="3"/>
+      <circle class="cls-16" cx="130.49" cy="227.08" r="3"/>
+    </g>
+    <g>
+      <path class="cls-16" d="m250.49,264.58c1.93,0,1.93-3,0-3s-1.93,3,0,3h0Z"/>
+      <circle class="cls-16" cx="286.49" cy="263.08" r="3"/>
+      <circle class="cls-16" cx="250.49" cy="299.08" r="3"/>
+      <circle class="cls-16" cx="214.49" cy="263.08" r="3"/>
+      <circle class="cls-16" cx="250.49" cy="227.08" r="3"/>
+    </g>
+    <g>
+      <path class="cls-16" d="m370.49,264.58c1.93,0,1.93-3,0-3s-1.93,3,0,3h0Z"/>
+      <circle class="cls-16" cx="406.49" cy="263.08" r="3"/>
+      <circle class="cls-16" cx="370.49" cy="299.08" r="3"/>
+      <circle class="cls-16" cx="334.49" cy="263.08" r="3"/>
+      <circle class="cls-16" cx="370.49" cy="227.08" r="3"/>
+    </g>
+    <g>
+      <path class="cls-16" d="m490.49,264.58c1.93,0,1.93-3,0-3s-1.93,3,0,3h0Z"/>
+      <circle class="cls-16" cx="526.49" cy="263.08" r="3"/>
+      <circle class="cls-16" cx="490.49" cy="299.08" r="3"/>
+      <circle class="cls-16" cx="454.49" cy="263.08" r="3"/>
+      <circle class="cls-16" cx="490.49" cy="227.08" r="3"/>
+    </g>
+  </g>
+  <g>
+    <path class="cls-16" d="m130.52,499.93c1.93,0,1.93-3,0-3s-1.93,3,0,3h0Z"/>
+    <circle class="cls-16" cx="166.52" cy="498.43" r="3"/>
+    <circle class="cls-16" cx="130.52" cy="534.43" r="3"/>
+    <circle class="cls-16" cx="94.52" cy="498.43" r="3"/>
+    <circle class="cls-16" cx="130.52" cy="462.43" r="3"/>
+  </g>
+  <g>
+    <path class="cls-16" d="m250.52,499.93c1.93,0,1.93-3,0-3s-1.93,3,0,3h0Z"/>
+    <circle class="cls-16" cx="286.52" cy="498.43" r="3"/>
+    <circle class="cls-16" cx="250.52" cy="534.43" r="3"/>
+    <circle class="cls-16" cx="214.52" cy="498.43" r="3"/>
+    <circle class="cls-16" cx="250.52" cy="462.43" r="3"/>
+  </g>
+  <g>
+    <path class="cls-16" d="m370.52,499.93c1.93,0,1.93-3,0-3s-1.93,3,0,3h0Z"/>
+    <circle class="cls-16" cx="406.52" cy="498.43" r="3"/>
+    <circle class="cls-16" cx="370.52" cy="534.43" r="3"/>
+    <circle class="cls-16" cx="334.52" cy="498.43" r="3"/>
+    <circle class="cls-16" cx="370.52" cy="462.43" r="3"/>
+  </g>
+  <g>
+    <path class="cls-16" d="m490.52,499.93c1.93,0,1.93-3,0-3s-1.93,3,0,3h0Z"/>
+    <circle class="cls-16" cx="526.52" cy="498.43" r="3"/>
+    <circle class="cls-16" cx="490.52" cy="534.43" r="3"/>
+    <circle class="cls-16" cx="454.52" cy="498.43" r="3"/>
+    <circle class="cls-16" cx="490.52" cy="462.43" r="3"/>
+  </g>
+  <path class="cls-24" d="m273.84,502.13c-.42.42-1.11.45-1.52.04l-1.54-1.54-18.91,18.91c-.42.42-1.08.42-1.47.03l-.36-.36c-.39-.39-.38-1.06.03-1.47l18.91-18.91-1.54-1.54c-.41-.41-.38-1.09.04-1.52s1.1-.44,1.51-.03l4.89,4.89c.41.41.39,1.08-.03,1.51Z"/>
+  <path class="cls-24" d="m134.12,732.6h-7.2c-.59,0-1.09.48-1.09,1.07s.49,1.07,1.09,1.07h2.4v26.22c0,.58.48,1.05,1.06,1.05h.4c.58,0,1.06-.47,1.06-1.05v-26.22h2.28c.6,0,1.09-.48,1.09-1.07,0-.59-.48-1.07-1.09-1.07Z"/>
+  <path class="cls-24" d="m254.12,715.43h-7.2c-.59,0-1.09.48-1.09,1.07s.49,1.07,1.09,1.07h2.4v26.22c0,.58.48,1.05,1.06,1.05h.4c.58,0,1.06-.47,1.06-1.05v-26.22h2.28c.6,0,1.09-.48,1.09-1.07,0-.59-.48-1.07-1.09-1.07Z"/>
+  <path class="cls-24" d="m374.12,698.26h-7.2c-.59,0-1.09.48-1.09,1.07,0,.58.49,1.07,1.09,1.07h2.4v26.22c0,.58.48,1.05,1.06,1.05h.4c.58,0,1.06-.47,1.06-1.05v-26.22h2.28c.6,0,1.09-.48,1.09-1.07,0-.59-.48-1.07-1.09-1.07Z"/>
+  <path class="cls-24" d="m486.92,698.26h7.2c.59,0,1.09.48,1.09,1.07,0,.58-.49,1.07-1.09,1.07h-2.4s0,26.22,0,26.22c0,.58-.48,1.05-1.06,1.05h-.4c-.58,0-1.06-.47-1.06-1.05v-26.22s-2.28,0-2.28,0c-.6,0-1.09-.48-1.09-1.07,0-.59.48-1.07,1.09-1.07Z"/>
+  <path class="cls-16" d="m312.1,731.51v5.18h-2.87v-5.18h-5.12v-2.75h5.12v-5.19h2.87v5.19h5.12v2.75h-5.12Z"/>
+  <path class="cls-16" d="m191.99,731.51v5.18h-2.87v-5.18h-5.12v-2.75h5.12v-5.19h2.87v5.19h5.12v2.75h-5.12Z"/>
+  <path class="cls-16" d="m424.34,728.54v-2.8h12.65v2.8h-12.65Zm0,5.98v-2.8h12.65v2.8h-12.65Z"/>
+  <text class="cls-13" transform="translate(114.48 677.36)"><tspan x="0" y="0">s</tspan><tspan class="cls-21" x="6.11" y="0">t</tspan><tspan x="11.52" y="0">art</tspan></text>
+  <text class="cls-13" transform="translate(223.41 677.36)"><tspan x="0" y="0">hal</tspan><tspan class="cls-1" x="21.16" y="0">f</tspan><tspan class="cls-22" x="26.16" y="0">wa</tspan><tspan x="46.05" y="0">y</tspan></text>
+  <text class="cls-13" transform="translate(357.64 677.36)"><tspan x="0" y="0">end</tspan></text>
+  <text class="cls-15" transform="translate(38.88 724.09)"><tspan x="0" y="0">s</tspan><tspan class="cls-21" x="4.58" y="0">t</tspan><tspan x="8.64" y="0">art </tspan><tspan x="-10.55" y="14.4">thumb in</tspan></text>
+  <text class="cls-15" transform="translate(558.43 724.09)"><tspan x="0" y="0">end</tspan><tspan x="-16.93" y="14.4">thumb out</tspan></text>
+  <g>
+    <path class="cls-16" d="m130.52,731.63c1.93,0,1.93-3,0-3s-1.93,3,0,3h0Z"/>
+    <circle class="cls-16" cx="166.52" cy="730.13" r="3"/>
+    <circle class="cls-16" cx="130.52" cy="766.13" r="3"/>
+    <circle class="cls-16" cx="94.52" cy="730.13" r="3"/>
+    <circle class="cls-16" cx="130.52" cy="694.13" r="3"/>
+  </g>
+  <g>
+    <path class="cls-16" d="m250.52,731.63c1.93,0,1.93-3,0-3s-1.93,3,0,3h0Z"/>
+    <circle class="cls-16" cx="286.52" cy="730.13" r="3"/>
+    <circle class="cls-16" cx="250.52" cy="766.13" r="3"/>
+    <circle class="cls-16" cx="214.52" cy="730.13" r="3"/>
+    <circle class="cls-16" cx="250.52" cy="694.13" r="3"/>
+  </g>
+  <g>
+    <path class="cls-16" d="m370.52,731.63c1.93,0,1.93-3,0-3s-1.93,3,0,3h0Z"/>
+    <circle class="cls-16" cx="406.52" cy="730.13" r="3"/>
+    <circle class="cls-16" cx="370.52" cy="766.13" r="3"/>
+    <circle class="cls-16" cx="334.52" cy="730.13" r="3"/>
+    <circle class="cls-16" cx="370.52" cy="694.13" r="3"/>
+  </g>
+  <g>
+    <path class="cls-16" d="m490.52,731.63c1.93,0,1.93-3,0-3s-1.93,3,0,3h0Z"/>
+    <circle class="cls-16" cx="526.52" cy="730.13" r="3"/>
+    <circle class="cls-16" cx="490.52" cy="766.13" r="3"/>
+    <circle class="cls-16" cx="454.52" cy="730.13" r="3"/>
+    <circle class="cls-16" cx="490.52" cy="694.13" r="3"/>
+  </g>
+  <path class="cls-24" d="m254.62,734.04c.79-1.08,4.05-3.91,4.05-3.91,0,0,3.26,2.83,4.05,3.91.59.82-.5,1.87-.5,1.87l-2.62-2.58v14.43c0,1.32-1.86,1.32-1.86,0v-14.43s-2.62,2.58-2.62,2.58c0,0-1.09-1.05-.5-1.87Z"/>
+  <path class="cls-24" d="m375.38,712.95c.79-1.08,4.05-3.91,4.05-3.91,0,0,3.26,2.83,4.05,3.91.59.82-.5,1.87-.5,1.87l-2.62-2.58v14.43c0,1.32-1.86,1.32-1.86,0v-14.43s-2.62,2.58-2.62,2.58c0,0-1.09-1.05-.5-1.87Z"/>
+  <path class="cls-24" d="m494.61,718.91c.79-1.08,4.05-3.91,4.05-3.91,0,0,3.26,2.83,4.05,3.91.59.82-.5,1.87-.5,1.87l-2.62-2.58v26.07c0,1.32-1.86,1.32-1.86,0v-26.07s-2.62,2.58-2.62,2.58c0,0-1.09-1.05-.5-1.87Z"/>
+  <text class="cls-10" transform="translate(41.61 117.14)"><tspan x="0" y="0">During a shif</tspan><tspan class="cls-26" x="87.17" y="0">t</tspan><tspan x="92.82" y="0">, a p</tspan><tspan class="cls-5" x="119.86" y="0">r</tspan><tspan x="126.24" y="0">op can </tspan><tspan class="cls-5" x="174.48" y="0">r</tspan><tspan x="180.86" y="0">ota</tspan><tspan class="cls-20" x="202.58" y="0">t</tspan><tspan x="207.85" y="0">e in one of t</tspan><tspan class="cls-27" x="287.1" y="0">w</tspan><tspan x="299.29" y="0">o di</tspan><tspan class="cls-5" x="324.62" y="0">r</tspan><tspan x="331.01" y="0">ections - P</tspan><tspan class="cls-5" x="401.47" y="0">r</tspan><tspan x="407.85" y="0">ospin or Antispin</tspan></text>
+  <line class="cls-7" x1="34.67" y1="132.91" x2="573.13" y2="132.91"/>
+  <line class="cls-12" x1="-2.01" y1="60.44" x2="609.99" y2="60.44"/>
+</svg>
