@@ -1,0 +1,92 @@
+01 - Level 1 Front Cover.svg
+02 - Acknowledgements.svg
+03 - Introduction, pt 1.svg
+04 - Introduction, pt 2.svg
+05 - Table of Contents.svg
+06 - 1.0 - Title Page - Positions and Motions.svg
+07 - 1.0 - The Grid.svg
+08 - 1.0 - Hand Positions.svg
+09 - 1.0 - Hand Motions.svg
+10 - 1.0 - Type 1 - Alpha and Beta.svg
+11 - 1.0 - Type 1 - Gamma and Type 2.svg
+12 - 1.0 - Type 3 and 4.svg
+13 - 1.0 - Type 5 and 6.svg
+14 - 1.0 - Layer 1 Staff Positions.svg
+15 - 1.0 - Layer 1 Staff Motions.svg
+16 - 1.0 - Prerequisites.svg
+17 - 1.1 - Title Page.svg
+18 - 1.1 - Base Letters - Double Staff, Type 1-2.svg
+19 - 1.1 - Base Letters - Double Staff, Type 3-6.svg
+20 - 1.1 - Base Letters - Clubs (out,out), Type 1-2.svg
+21 - 1.1 - Base Letters - Clubs (out,out), Type 3-6.svg
+22 - 1.1 - Base Letters - Buugeng (s), Type 1-2.svg
+23 - 1.1 - Base Letters - Buugeng (s), Type 3-6.svg
+24 - 1.1 - Base Letters - Buugeng (o), Type 1-2.svg
+25 - 1.1 - Base Letters - Buugeng (o), Type 3-6.svg
+26 - 1.1 - Base Letters - Triads (out,out), Type 1-2.svg
+27 - 1.1 - Base Letters - Triads (out,out), Type 3-6.svg
+28 - 1.1 - Base Letters - Fans (out,out), Type 1-2.svg
+29 - 1.1 - Base Letters - Fans (out,out), Type 3-6.svg
+30 - 1.1 - Base Letters - Mini Hoops (out,out) - Type 1-2.svg
+31 - 1.1 - Base Letters - Mini Hoops (out,out) - Type 3-6.svg
+32 - 1.1 - Letters - Type 1.svg
+33 - 1.1 - Basic Words, ABC, GHI.svg
+34 - 1.1 - Compound Letters.svg
+35 - 1.1 - Compound Words - DJ, EK, FL.svg
+36 - 1.1 - Gamma Letters.svg
+37 - 1.1 - Gamma Words - MP, NQ, OR, STUV.svg
+38 - 1.1 - Type 2 - Shifts.svg
+39 - 1.1 - Type 3 - Cross-Shifts.svg
+40 - 1.1 - Type 4,5,6.svg
+41 - 1.2 - Title Page.svg
+42 - 1.2 - Words.svg
+43 - 1.2 - Permutations.svg
+44 - 1.2 - Reversals.svg
+45 - 1.2 - Guide pt 1 - AABB.svg
+46 - 1.2 - Guide pt. 2 - CCCC.svg
+47 - 1.2 - Guide pt. 3 - ACAC, BCBC.svg
+48 - 1.2 - Type 1 Permutations - DJII, BBLF, KIEC.svg
+49 - 1.2 - Type 1 Gamma Permutations - SOTR, VPUQ, MVNU.svg
+50 - 1.2 - Type 2 Permutations - BΣTX, EΔUZ, OYHθ.svg
+51 - 1.2 - 16-count sequences - GθOZ, EΔQY.svg
+52 - 1.2 - 8-Letter Words - IIΩXKEΣY, CΣNZIθVW.svg
+53 - 1.2 - Prop-Reversal Permutations, EsigQY, TWKthe, BdelMX.svg
+54 - 1.2 - Full-Reversal Permutations.svg
+55 - 1.3 - Turns.svg
+56 - 1.3 - Turns - Prospin and Antispin.svg
+57 - 1.3 - Turns - Dash and Static.svg
+58 - 1.3 - Glyphs - PADS.svg
+59 - 1.3 - 1-0 Dual Shifts.svg
+60 - 1.3 - S and T - Leading-Following.svg
+61 - 1.3 - Shifts.svg
+62 - 1.3 - Cross-Shifts.svg
+63 - 1.3 - Dashes.svg
+64 - 1.3 - Opening and Closing.svg
+65 - 1.3 - Dual-Dashes.svg
+66 - 1.3 - Static Turns.svg
+67 - 1.3 - Type 1.svg
+68 - 1.3 - Type 2-3.svg
+69 - 1.3 - Type 4,5,6.svg
+70 - 1.3 - Type 1 - (1,0).svg
+71 - 1.3 - Type 2,3 - (0,1).svg
+72 - 1.3 - Type 2,3,4,5,6 - (1,0).svg
+73 - 1.3 - Type 1 - (1,1).svg
+74 - 1.3 - Type 2-3, (1,1).svg
+75 - 1.3 - Type 4,5,6, (1,1).svg
+76 - 1.4 - Pro-Anti Shifts.svg
+77 - 1.4 - Dash, Static.svg
+78 - 1.4 - Type 1 - (2,0).svg
+79 - 1.4 - Type 2,3 - (0,2).svg
+80 - 1.4- Type 2,3,4,5,6, (2,0).svg
+81 - 1.4 - Type 1, (2,1).svg
+82 - 1.4 - Type 2,3 - (1,2).svg
+83 - 1.4 - Type 2,3 - (2,1).svg
+84 - 1.4 - Type 4,5,6 - (2,1).svg
+85 - 1.4 - Type 1, (2,2).svg
+86 - 1.4 - Type 2,3 - (2,2).svg
+87 - 1.4 - Type 4,5,6 - (2,2).svg
+88 - What's next-.svg
+89 - Let's collab and Buy me a taco!.svg
+90 - VTG Links and Changelog.svg
+91 - Table of Contents pt. 1 copy.svg
+92 - Level 1 Back Cover.svg
